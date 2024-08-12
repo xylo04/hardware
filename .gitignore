@@ -1,2 +1,5 @@
 /bestboard-v2-backups
 *.zip
+.DS_Store
+fp-info-cache
+*.lck
